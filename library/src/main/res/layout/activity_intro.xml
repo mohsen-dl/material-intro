@@ -35,7 +35,7 @@
             android:orientation="vertical">
 
             <TextSwitcher
-                android:id="@id/mi_button_cta"
+                android:id="@+id/mi_button_cta"
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/mi_button_cta_height"
                 android:layout_marginBottom="@dimen/mi_baseline"

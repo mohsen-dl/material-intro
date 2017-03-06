@@ -7,5 +7,5 @@
         <item quantity="one">Grant permission</item>
         <item quantity="other">Grant permissions</item>
     </plurals>
-    <string name="mi_label_button_cta">Get started</string>
+    <string name="mi_label_button_cta">برو به برنامه</string>
 </resources>
